@@ -1,0 +1,47 @@
+---
+title: "Steven Kyum Kim"
+image: "Profile.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/stevenkyumkim"
+  - label: Twitter
+    url: "https://twitter.com/skykim27"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0002-2649-7268"
+  - label: Email
+    url: "mailto:stevenkyumkim@gmail.com"
+  - label: Work email
+    url: "mailto:skykim27@korea.ac.kr"    
+output:
+  postcards::solana
+---
+ 
+## About
+
+Steven Kyum Kim is a graduate student in Public Administration at Korea University. His focus is in environmental policy in the areas of energy, climate, and sustainable development. 
+
+## Education
+
+**[Korea University](https://kupa.korea.ac.kr)** | Seoul, Korea
+
+Ph.D. Candidate | Public Adminstration
+
+**[The KDI School](https://kdischool.ac.kr)** | Seoul, Korea
+
+M.P.P | Public Policy
+
+**[Cal Poly Pomona](https://www.cpp.edu/env)** | Pomona, CA, USA
+
+B.S. | Urban and Regional Planning
+
+<!-- ## Experience -->
+
+<!-- **Freelance** | Live Entertainment Consultant | August 2018 - Present -->
+
+<!-- **Cercle** | Producer | August 2018 - Present -->
+
+<!-- **National Public Radio** | Producer | May 2015 - July 2018 -->
+
+<!-- **NME Magazine** | Editor | July 2014 - July 2016 -->
+
+<!-- **Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014 -->
