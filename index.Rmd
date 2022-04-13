@@ -8,9 +8,9 @@ links:
     url: "https://twitter.com/skykim27"
   - label: ORCiD
     url: "https://orcid.org/0000-0002-2649-7268"
+  # - label: Email
+  #   url: "mailto:stevenkyumkim@gmail.com"
   - label: Email
-    url: "mailto:stevenkyumkim@gmail.com"
-  - label: Work email
     url: "mailto:skykim27@korea.ac.kr"    
 output:
   postcards::solana
